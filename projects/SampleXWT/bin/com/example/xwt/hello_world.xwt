@@ -1,0 +1,8 @@
+<Shell xmlns="http://www.eclipse.org/xwt/presentation"
+    xmlns:x="http://www.eclipse.org/xwt">
+    <Shell.layout>
+       <FillLayout/>
+    </Shell.layout>
+    <Button text="Hello, world, XWT!">
+    </Button>
+</Shell>

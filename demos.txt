@@ -1,0 +1,19 @@
+1) Eclipse Orion hello world: http://www.eclipse.org/orion/
+
+2) OSGi console (org.eclipse.osgi_3.8.2.v20130124-134944.jar)
+	java -jar org.eclipse.osgi_3.8.2.v20130124-134944 -console
+	install file://D:/software/Eclipse_3.7_Indigo/plugins/org.apache.lucene_2.9.1.v201101211721.jar
+	start <id>
+	install file://D:/software/Eclipse_3.7_Indigo/plugins/org.apache.lucene.core_2.9.1.v201101211721.jar
+	start <id>
+	stop <id>
+	uninstall <id>
+
+3) XWT sample
+
+4) New plug-in project with a view and a few commands
+
+5) Powershell editor - overview of editor configuration
+	
+6) deployment of the sample plug-in - feature & update site
+
